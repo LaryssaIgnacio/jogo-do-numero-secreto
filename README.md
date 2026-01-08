@@ -1,2 +1,3 @@
 # jogo-do-numero-secreto
-https://jogo-do-numero-secreto-eta-virid.vercel.app/  << Teste Online Do Jogo ♡♡♡
++ 𝕡𝕣𝕚𝕞𝕖𝕚𝕣𝕠 𝕡𝕣𝕠𝕛𝕖𝕥𝕠 𝕡𝕖𝕝𝕠 𝔸𝕝𝕦𝕣𝕒 
++ https://jogo-do-numero-secreto-eta-virid.vercel.app/ - ᴛᴇꜱᴛᴇ ᴅᴏ ᴊᴏɢᴏ ᴏɴʟɪɴᴇ ♡
